@@ -1,2 +1,7 @@
-# Pollenmaakana.github.io
-Pollenmaakana.github.io/portfolio
+# Data Scientist
+
+### Education
+
+### Work Exprience
+
+### Projects
