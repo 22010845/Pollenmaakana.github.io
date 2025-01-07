@@ -53,13 +53,16 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 - Analyzed a dataset of agricultural product details, including crop name, region, production quantity, price per unit, and harvest season.  
 - Cleaned data, performed descriptive statistics, visualized trends, and provided actionable insights for crop selection, market strategies, and yield optimization.  
 - Predicted price trends based on production quantity and recommended high-yield crops for profitability and seasonal planning.  
-**Technologies**: R, RStudio, ggplot2, Data Visualization, Statistical Analysis
+**Technologies**: R, RStudio, ggplot2, Data Visualization, Statistical Analysis[ps2.docx](https://github.com/user-attachments/files/18331870/ps2.docx)
+![Screenshot 2024-11-05 023946](https://github.com/user-attachments/assets/ed97f3c4-34ce-4ef3-941c-812236f8a84c)
+
 
 ### Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]  
 - Completed a comprehensive course covering topics such as data preprocessing, regression, classification, clustering, reinforcement learning, and deep learning.  
 - Developed predictive models and AI applications using Python and R, with a focus on hands-on implementation through practical exercises.  
 - Gained experience in NLP, reinforcement learning, and deep learning models using TensorFlow and Keras.  
 **Technologies**: Python, R, Scikit-learn, TensorFlow, Keras, Natural Language Processing, Deep Learning
+![Screenshot 2025-01-07 131303](https://github.com/user-attachments/assets/49d6b836-0d9a-41a0-a910-518c1eb6606a)
 
 ---
 
