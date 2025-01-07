@@ -62,7 +62,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 - Developed predictive models and AI applications using Python and R, with a focus on hands-on implementation through practical exercises.  
 - Gained experience in NLP, reinforcement learning, and deep learning models using TensorFlow and Keras.  
 **Technologies**: Python, R, Scikit-learn, TensorFlow, Keras, Natural Language Processing, Deep Learning
-![Screenshot 2025-01-07 131303](https://github.com/user-attachments/assets/49d6b836-0d9a-41a0-a910-518c1eb6606a)
+![Screenshot 2025-01-07 131303](https://github.com/user-attachments/assets/49d6b836-0d9a-41a0-a910-518c1eb6606a) 
 
 ---
 
