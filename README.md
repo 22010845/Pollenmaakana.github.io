@@ -80,5 +80,10 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 - **Programming**: Python, R, SQL
 - **Spoken**: English (Fluent), Xitsonga (Intermediate), Venda (Fluent)
 
+## Contact Information
+- **Email:** [pollenmaakana@gmail.com](mailto:pollenmaakana@gmail.com)
+- **LinkedIn:** [Pollen Enelani LinkedIn](https://www.linkedin.com/in/pollen-enelani-96b860256)
+
+
 
 
