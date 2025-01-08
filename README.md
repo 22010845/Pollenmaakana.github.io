@@ -42,8 +42,8 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 ## 🏆 Certifications
 - **Introduction to Python and R** – Alison
 - **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]** –[ Udemy  
-  *Machine Learning A-Z Certificate*
-](https://www.udemy.com/certificate/UC-063e3127-6b7b-48a3-8322-3900e0fd6674/)
+  *Machine Learning A-Z Certificate*](https://www.udemy.com/certificate/UC-063e3127-6b7b-48a3-8322-3900e0fd6674/)
+  
 ---
 
 ## 💼 Projects
@@ -66,7 +66,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 ![Screenshot 2024-11-10 034206](https://github.com/user-attachments/assets/9dff9785-b245-41dc-8eab-f7880c458396)
 
 
-### [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]]  
+### Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] 
 - Completed a comprehensive course covering topics such as [data preprocessing](https://github.com/22010845/Pollenmaakana.github.io/tree/main/Part%201%20-%20Data%20Preprocessing), [regression](https://github.com/22010845/Pollenmaakana.github.io/tree/main/Part%202%20-%20Regression), [classification](https://github.com/22010845/Pollenmaakana.github.io/tree/main/Part%203%20-%20Classification), [clustering](https://github.com/22010845/Pollenmaakana.github.io/tree/main/Part%204%20-%20Clustering), [reinforcement learning](https://github.com/22010845/Pollenmaakana.github.io/tree/main/Part%206%20-%20Reinforcement%20Learning), and [deep learning](https://github.com/22010845/Pollenmaakana.github.io/tree/main/Part%208%20-%20Deep%20Learning).  
 - Developed predictive models and AI applications using Python and R, with a focus on hands-on implementation through practical exercises.  
 - Gained experience in NLP, reinforcement learning, and deep learning models using TensorFlow and Keras.  
