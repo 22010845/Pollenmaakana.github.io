@@ -56,7 +56,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 ![Screenshot 2024-11-05 023946](https://github.com/user-attachments/assets/71a3c2fd-4ce1-4575-9938-7f1123c1bfc4)
 
 
-### [Database Development for Bohlale Clothing]
+### [Database Development for Bohlale Clothing](https://github.com/22010845/Pollenmaakana.github.io/tree/main/QMD%20END%20assessment%20by%20AK)
 - **Objective**: Streamline inventory, sales, and purchase order management through a functional database.
 - **Details**:
   - Designed schemas to manage store locations, employee data, and supplier relationships.
