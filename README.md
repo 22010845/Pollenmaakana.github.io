@@ -15,7 +15,6 @@ Skilled in Python, R, and SQL, with experience in building predictive models, da
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, Natural Language Processing
 - **Data Visualization**: ggplot2, Matplotlib, Seaborn, Power BI
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Big Data**: Hadoop, Spark
 - **Cloud Platforms**: AWS, Azure
 
 ### Soft Skills
@@ -42,9 +41,9 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 
 ## 🏆 Certifications
 - **Introduction to Python and R** – Alison
-- **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]** – Udemy  
+- **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]** –[ Udemy  
   *Machine Learning A-Z Certificate*
-
+](https://www.udemy.com/certificate/UC-063e3127-6b7b-48a3-8322-3900e0fd6674/)
 ---
 
 ## 💼 Projects
@@ -53,8 +52,18 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 - Analyzed a dataset of agricultural product details, including crop name, region, production quantity, price per unit, and harvest season.  
 - Cleaned data, performed descriptive statistics, visualized trends, and provided actionable insights for crop selection, market strategies, and yield optimization.  
 - Predicted price trends based on production quantity and recommended high-yield crops for profitability and seasonal planning.  
-**Technologies**: R, RStudio, ggplot2, Data Visualization, Statistical Analysis[ps2.docx](https://github.com/user-attachments/files/18331870/ps2.docx)
-![Screenshot 2024-11-05 023946](https://github.com/user-attachments/assets/ed97f3c4-34ce-4ef3-941c-812236f8a84c)
+**Technologies**: R, RStudio, ggplot2, Data Visualization, Statistical Analysis [ps2.docx](https://github.com/user-attachments/files/18331870/ps2.docx)
+![Screenshot 2024-11-05 023946](https://github.com/user-attachments/assets/71a3c2fd-4ce1-4575-9938-7f1123c1bfc4)
+
+
+### Database Development for Bohlale Clothing
+- **Objective**: Streamline inventory, sales, and purchase order management through a functional database.
+- **Details**:
+  - Designed schemas to manage store locations, employee data, and supplier relationships.
+  - Automated inventory updates and generated financial reports using SQL.
+- **Impact**: Enhanced operational efficiency and improved tracking of sales and VAT compliance.
+- **Technologies Used**: SQL Server, ER Diagrams, Relational Database Management [Qmd final.docx](https://github.com/user-attachments/files/18348312/Qmd.final.docx)
+![Screenshot 2024-11-10 034206](https://github.com/user-attachments/assets/9dff9785-b245-41dc-8eab-f7880c458396)
 
 
 ### Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]  
@@ -62,13 +71,14 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 - Developed predictive models and AI applications using Python and R, with a focus on hands-on implementation through practical exercises.  
 - Gained experience in NLP, reinforcement learning, and deep learning models using TensorFlow and Keras.  
 **Technologies**: Python, R, Scikit-learn, TensorFlow, Keras, Natural Language Processing, Deep Learning
-![Screenshot 2025-01-07 131303](https://github.com/user-attachments/assets/49d6b836-0d9a-41a0-a910-518c1eb6606a) 
+![Screenshot 2025-01-07 131303](https://github.com/user-attachments/assets/d833a586-ae46-4eaa-95a0-c02bff38d8d0)
+
 
 ---
 
 ## 🌍 Languages
-- **Programming**: Python, R, SQL  
-- **Spoken**: English, Xitsonga, Venda
+- **Programming**: Python, R, SQL
+- **Spoken**: English (Fluent), Xitsonga (Intermediate), Venda (Fluent)
 
 
 
