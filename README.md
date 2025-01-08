@@ -48,7 +48,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 
 ## 💼 Projects
 
-### Agricultural Produce Data Analysis  
+### [Agricultural Produce Data Analysis]  
 - Analyzed a dataset of agricultural product details, including crop name, region, production quantity, price per unit, and harvest season.  
 - Cleaned data, performed descriptive statistics, visualized trends, and provided actionable insights for crop selection, market strategies, and yield optimization.  
 - Predicted price trends based on production quantity and recommended high-yield crops for profitability and seasonal planning.  
@@ -56,7 +56,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 ![Screenshot 2024-11-05 023946](https://github.com/user-attachments/assets/71a3c2fd-4ce1-4575-9938-7f1123c1bfc4)
 
 
-### Database Development for Bohlale Clothing
+### [Database Development for Bohlale Clothing]
 - **Objective**: Streamline inventory, sales, and purchase order management through a functional database.
 - **Details**:
   - Designed schemas to manage store locations, employee data, and supplier relationships.
@@ -66,7 +66,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 ![Screenshot 2024-11-10 034206](https://github.com/user-attachments/assets/9dff9785-b245-41dc-8eab-f7880c458396)
 
 
-### Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]  
+### [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]]  
 - Completed a comprehensive course covering topics such as data preprocessing, regression, classification, clustering, reinforcement learning, and deep learning.  
 - Developed predictive models and AI applications using Python and R, with a focus on hands-on implementation through practical exercises.  
 - Gained experience in NLP, reinforcement learning, and deep learning models using TensorFlow and Keras.  
