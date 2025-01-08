@@ -1,7 +1,7 @@
 
 
 
-# Data Scientist | Computer Science Graduate
+# Data Scientist
 
 **Computer Science Graduate with a strong foundation in data analysis, machine learning, and statistical modeling.**  
 Skilled in Python, R, and SQL, with experience in building predictive models, data visualization, and working with datasets to uncover actionable insights. Completed academic projects in agricultural data analysis and database development, and successfully finished the 'Machine Learning A-Z: AI, Python & R' course on Udemy. Eager to bring analytical expertise and innovative problem-solving skills to a dynamic and data-driven team.
