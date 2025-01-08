@@ -1,6 +1,44 @@
 title: Pollen Enelani Maakana
-logo: https://avatars.githubusercontent.com/u/133812622?v=4
-#description:
-show_downloads: true
-theme: jekyll-theme-minimal
+logo: /assets/images/logo.png # Path to your logo image
+description: >
+  A Computer Science Graduate with a passion for data science and machine learning. 
+  Skilled in Python, R, and SQL with experience in predictive modeling, data visualization, and statistical analysis.
+show_downloads: true # Show download links for project or resume
+theme: jekyll-theme-minimal # You are using the 'jekyll-theme-minimal'
+
+# Optional: Customize the navigation
+nav:
+  - Home: /
+  - Projects: /projects
+  - Blog: /blog
+  - About: /about
+  - Contact: /contact
+
+# Google Analytics (if applicable)
+google_analytics: UA-XXXXXXXXX-X
+
+# Social media links
+social_links:
+  - name: GitHub
+    url: https://github.com/enelani
+  - name: LinkedIn
+    url: https://linkedin.com/in/enelani
+  - name: Twitter
+    url: https://twitter.com/enelani
+
+# Optional: Custom styling settings
+style: 
+  custom_css: /assets/css/style.css
+
+# Set the permalink style for posts (optional)
+permalink: pretty
+
+# Exclude unnecessary files from the site (optional)
+exclude:
+  - README.md
+  - LICENSE
+
+# Optional: Markdown settings
+markdown: kramdown
+
 
