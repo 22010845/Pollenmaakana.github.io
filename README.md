@@ -48,7 +48,7 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 
 ## 💼 Projects
 
-### [Agricultural Produce Data Analysis]  
+### [Agricultural Produce Data Analysis](https://github.com/22010845/Pollenmaakana.github.io/tree/main/r%20end%20assessment)
 - Analyzed a dataset of agricultural product details, including crop name, region, production quantity, price per unit, and harvest season.  
 - Cleaned data, performed descriptive statistics, visualized trends, and provided actionable insights for crop selection, market strategies, and yield optimization.  
 - Predicted price trends based on production quantity and recommended high-yield crops for profitability and seasonal planning.  
