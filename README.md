@@ -52,7 +52,10 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
 - Analyzed a dataset of agricultural product details, including crop name, region, production quantity, price per unit, and harvest season.  
 - Cleaned data, performed descriptive statistics, visualized trends, and provided actionable insights for crop selection, market strategies, and yield optimization.  
 - Predicted price trends based on production quantity and recommended high-yield crops for profitability and seasonal planning.  
-**Technologies**: R, RStudio, ggplot2, Data Visualization, Statistical Analysis [ps2.docx](https://github.com/user-attachments/files/18331870/ps2.docx)
+**Technologies**: R, RStudio, ggplot2, Data Visualization, Statistical Analysis.
+  
+  [View Documentation](https://github.com/user-attachments/files/18331870/ps2.docx)
+
 ![Screenshot 2024-11-05 023946](https://github.com/user-attachments/assets/71a3c2fd-4ce1-4575-9938-7f1123c1bfc4)
 
 
@@ -62,7 +65,10 @@ Relevant coursework: Software Engineering, System Analysis and Design, Distribut
   - Designed schemas to manage store locations, employee data, and supplier relationships.
   - Automated inventory updates and generated financial reports using SQL.
 - **Impact**: Enhanced operational efficiency and improved tracking of sales and VAT compliance.
-- **Technologies Used**: SQL Server, ER Diagrams, Relational Database Management [Qmd final.docx](https://github.com/user-attachments/files/18348312/Qmd.final.docx)
+- **Technologies Used**: SQL Server, ER Diagrams, Relational Database Management.
+  
+   [View Documentation](https://github.com/user-attachments/files/18348312/Qmd.final.docx)
+
 ![Screenshot 2024-11-10 034206](https://github.com/user-attachments/assets/9dff9785-b245-41dc-8eab-f7880c458396)
 
 
